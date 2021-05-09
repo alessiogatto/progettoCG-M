@@ -8,4 +8,4 @@ Passi per la realizzazione:
 - Comprensione del funzionamento e creazione di un file python personalizzato per l'inferenza. Tale file connette le due reti utilizzate in EvoSkeleton prendendo in input il path dell'immagine e restituendo in output un vettore di (16,3,2) elementi. Tale vettore contiene i bone del personaggio.
 - Implementazione di un plugin che permette la scelta di un'immagine .jpg, .jpeg e .png e che restituisce un personaggio con la posa dell'immagine scelta direttante in Blender.
 
-[Plugin](https://drive.google.com/file/d/1Sp7usYCp_LInmfmezmDeuqxX8vdYmnQD/view?usp=sharing)
+Il plugin è scaricabile al seguente [link](https://drive.google.com/file/d/1ghUTW60Ok_roYIz1LvuAmMckxMhp4pzI/view?usp=sharing)
