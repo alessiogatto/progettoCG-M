@@ -19,4 +19,4 @@ Istruzioni per l'uso:
 
 
 Il plugin è scaricabile al seguente [link](https://drive.google.com/file/d/1yf54E7Jg0NVGNeMYtytKuiD0AypL5HAu/view?usp=sharing)
-
+Poiché la rete è stata progettata per funzionare esclusivamente su Linux, il plugin non permette l'uso su altri sistemi operativi. La dipendenza dalle schede video nvidia è stata rimossa.
