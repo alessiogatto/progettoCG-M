@@ -12,6 +12,7 @@ Istruzioni per l'uso:
 
   - Scaricare il plugin nel link in fondo alla pagina;
   - Aprire Blender (testato sulla versione 2.92 e 2.83.13 LTS) e andare in Edit - Preferences - Add-ons e installare il plugin selezionando il file .zip scaricato in precedenza;
+  - A questo punto, comparirà il plugin EvoSkeleton (nella sezione Generic);
   - Il primo avvio potrebbe impiegare del tempo aggiuntivo poiché il plugin installa automaticamente le corrette dipendenze. Dal secondo uso, l'avvio del plugin è instantaneo;
   - Aprire il pannello laterale di Blender e selezionare la voce EvoSkeleton;
   - Cliccare "Seleziona immagine e ottieni scheletro 3D". Da qui, si aprirà "Blender File View" che permetterà di selezionare una immagine a scelta;
