@@ -16,8 +16,7 @@ Istruzioni per l'uso:
   - Il primo avvio potrebbe impiegare del tempo aggiuntivo poiché il plugin installa automaticamente le corrette dipendenze. Dal secondo uso, l'avvio del plugin è instantaneo;
   - Aprire il pannello laterale di Blender e selezionare la voce EvoSkeleton;
   - Cliccare "Seleziona immagine e ottieni scheletro 3D". Da qui, si aprirà "Blender File View" che permetterà di selezionare una immagine a scelta;
+  - Modificare eventualmente il nome dei bones seguendo le corrispondenze numeriche presente in figura ![https://github.com/alessiogatto/progettoCG-M/blob/main/skeleton.png]
   - Goditi la posa.
 
-
-Il plugin è scaricabile al seguente [link](https://drive.google.com/file/d/1yf54E7Jg0NVGNeMYtytKuiD0AypL5HAu/view?usp=sharing)
 Poiché la rete è stata progettata per funzionare esclusivamente su Linux, il plugin non permette l'uso su altri sistemi operativi. La dipendenza dalle schede video nvidia è stata rimossa.
